@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class group{
+class sumnum{
 public static void main(String argn[]){
 Scanner data = new Scanner(System.in);
 int num, i, temp, max;
